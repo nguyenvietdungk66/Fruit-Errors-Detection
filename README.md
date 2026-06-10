@@ -43,4 +43,4 @@ Supported formats:
 - Pascal VOC
 - Open Images Dataset format
 
-[DATA AVAILABILITY]: https://app.roboflow.com/hust-csjq7/banana_quality_detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+[DATA AVAILABILITY]:(https://app.roboflow.com/hust-csjq7/banana_quality_detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
