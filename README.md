@@ -12,7 +12,6 @@ We use **Single Shot MultiBox Detector (SSD)** with **MobileNet backbone** to ac
 
 - Detect and localize bruises/damages on banana surfaces.
 - Build a lightweight deep learning model suitable for edge devices.
-- Deploy and run inference efficiently on **Jetson Nano**.
 - Support real-time inspection scenarios in agricultural sorting systems.
 
 ---
@@ -44,4 +43,4 @@ Supported formats:
 - Pascal VOC
 - Open Images Dataset format
 
-Example structure:
+[DATA AVAILABILITY]: https://app.roboflow.com/hust-csjq7/banana_quality_detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
