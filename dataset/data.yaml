@@ -1,0 +1,13 @@
+train: /home/nvdung/myenv/banana_detection/train/images
+val:  /home/nvdung/myenv/banana_detection/valid/images
+test: /home/nvdung/myenv/banana_detection/test/images
+
+nc: 1
+names: ['error']
+
+roboflow:
+  workspace: hust-csjq7
+  project: banana_detection-pvlqy
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hust-csjq7/banana_detection-pvlqy/dataset/2
