@@ -43,6 +43,6 @@ Supported formats:
 - Pascal VOC
 - Open Images Dataset format
 
-Dataset được sử dụng trong project được lấy từ Roboflow:
+Dataset we have created in Roboflow:
 
 👉 [Banana Quality Detection Dataset](https://app.roboflow.com/hust-csjq7/banana_quality_detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
